@@ -1,3 +1,9 @@
+#!/usr/bin/env node
+
+'use strict';
+
+process.title = 'cq';
+
 var command = require('../lib/core/command');
 
 switch (command.getCommand()) {

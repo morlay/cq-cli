@@ -1,0 +1,24 @@
+{
+  "name": "cq-cli",
+  "version": "0.0.0",
+  "description": "",
+  "bin": {
+    "cq": "./bin/cq"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chalk": "^0.4.0",
+    "event-stream": "^3.1.1",
+    "fs-extra": "^0.8.1",
+    "prompt": "^0.2.12",
+    "q": "^1.0.1",
+    "vinyl-fs": "^0.1.2",
+    "yargs": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}

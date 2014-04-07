@@ -1,12 +1,13 @@
 {
   "name": "cq-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "bin": {
-    "cq": "./bin/cq"
+    "cq": "bin/cq.js"
   },
+  "main": "bin/cq.js",
   "directories": {
-    "test": "test"
+    "example": "example"
   },
   "dependencies": {
     "chalk": "^0.4.0",
@@ -17,8 +18,18 @@
     "vinyl-fs": "^0.1.2",
     "yargs": "^1.2.1"
   },
-  "devDependencies": {},
-  "scripts": {},
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morlay/cq-cli.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morlay/cq-cli/issues"
+  },
+  "homepage": "https://github.com/morlay/cq-cli"
 }

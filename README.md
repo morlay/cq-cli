@@ -1,5 +1,5 @@
 ## CQ CLI
 
-`npm install -g https://github.com/morlay/cq-cli`
+`npm install -g git://github.com/morlay/cq-cli.git`
 
-`cq help`
+`cq help`npm

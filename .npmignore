@@ -1,5 +1,6 @@
 /node_modules
 /npm-debug.log
+/example
 
 /test/assets/temp
 /test/assets/temp2
@@ -9,4 +10,4 @@
 
 /bower.json
 /component.json
-/bower_components
+/node_modules
